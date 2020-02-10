@@ -1,5 +1,9 @@
 @import './../../node_modules/nb-base/src/scss/style.scss';
 
+:root {
+  --background: url("./../images/paper.png");
+}
+
 @font-face {
   font-family: "League";
   src: url("./../fonts/leaguespartan-bold.woff2") format("woff2");

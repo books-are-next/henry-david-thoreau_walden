@@ -13,11 +13,11 @@
     "Solitude",
     "Social life and customs"
   ],
-  "slug": "thoreau-walden-1854-57d88a",
-  "revision": "c7574c8",
+  "slug": "thoreau-walden-1854-7355bcf",
+  "revision": "7355bcf",
   "generatedAt": {
-    "date": "Sat Dec 07 2019 14:54:09 GMT+0100 (Central European Standard Time)",
-    "unix": 1575726849379
+    "date": "Mon Feb 10 2020 18:48:34 GMT+0100 (Central European Standard Time)",
+    "unix": 1581356914306
   },
   "documents": [
     {
@@ -25,6 +25,7 @@
       "file": "baker-farm.html",
       "words": 2553,
       "chars": 13806,
+      "ideas": 95,
       "isChapter": true,
       "order": 9,
       "prev": "the-ponds.html",
@@ -44,6 +45,7 @@
       "file": "brute-neighbors.html",
       "words": 4797,
       "chars": 25463,
+      "ideas": 187,
       "isChapter": true,
       "order": 11,
       "prev": "higher-laws.html",
@@ -63,6 +65,7 @@
       "file": "conclusion.html",
       "words": 4626,
       "chars": 24884,
+      "ideas": 228,
       "isChapter": true,
       "order": 17,
       "prev": "spring.html",
@@ -82,6 +85,7 @@
       "file": "economy.html",
       "words": 25330,
       "chars": 136905,
+      "ideas": 909,
       "isChapter": true,
       "order": 0,
       "prev": null,
@@ -101,6 +105,7 @@
       "file": "former-inhabitants-and-winter-visitors.html",
       "words": 4677,
       "chars": 25776,
+      "ideas": 157,
       "isChapter": true,
       "order": 13,
       "prev": "house-warming.html",
@@ -120,6 +125,7 @@
       "file": "higher-laws.html",
       "words": 4196,
       "chars": 22740,
+      "ideas": 194,
       "isChapter": true,
       "order": 10,
       "prev": "baker-farm.html",
@@ -139,6 +145,7 @@
       "file": "house-warming.html",
       "words": 5715,
       "chars": 30579,
+      "ideas": 193,
       "isChapter": true,
       "order": 12,
       "prev": "brute-neighbors.html",
@@ -158,6 +165,7 @@
       "file": "index.html",
       "words": 765,
       "chars": 4759,
+      "ideas": 46,
       "isChapter": false,
       "order": null,
       "next": "economy.html",
@@ -206,6 +214,7 @@
       "file": "reading.html",
       "words": 3759,
       "chars": 20866,
+      "ideas": 129,
       "isChapter": true,
       "order": 2,
       "prev": "where-i-lived-and-what-i-lived-for.html",
@@ -225,6 +234,7 @@
       "file": "solitude.html",
       "words": 3431,
       "chars": 18222,
+      "ideas": 128,
       "isChapter": true,
       "order": 4,
       "prev": "sounds.html",
@@ -244,6 +254,7 @@
       "file": "sounds.html",
       "words": 5692,
       "chars": 31393,
+      "ideas": 195,
       "isChapter": true,
       "order": 3,
       "prev": "reading.html",
@@ -263,6 +274,7 @@
       "file": "spring.html",
       "words": 6628,
       "chars": 36130,
+      "ideas": 246,
       "isChapter": true,
       "order": 16,
       "prev": "the-pond-in-winter.html",
@@ -282,6 +294,7 @@
       "file": "the-bean-field.html",
       "words": 3786,
       "chars": 20607,
+      "ideas": 126,
       "isChapter": true,
       "order": 6,
       "prev": "visitors.html",
@@ -301,6 +314,7 @@
       "file": "the-pond-in-winter.html",
       "words": 5196,
       "chars": 28042,
+      "ideas": 157,
       "isChapter": true,
       "order": 15,
       "prev": "winter-animals.html",
@@ -320,6 +334,7 @@
       "file": "the-ponds.html",
       "words": 9152,
       "chars": 49124,
+      "ideas": 290,
       "isChapter": true,
       "order": 8,
       "prev": "the-village.html",
@@ -339,6 +354,7 @@
       "file": "the-village.html",
       "words": 2016,
       "chars": 10784,
+      "ideas": 58,
       "isChapter": true,
       "order": 7,
       "prev": "the-bean-field.html",
@@ -358,6 +374,7 @@
       "file": "visitors.html",
       "words": 4738,
       "chars": 25521,
+      "ideas": 190,
       "isChapter": true,
       "order": 5,
       "prev": "solitude.html",
@@ -377,6 +394,7 @@
       "file": "where-i-lived-and-what-i-lived-for.html",
       "words": 6081,
       "chars": 32332,
+      "ideas": 225,
       "isChapter": true,
       "order": 1,
       "prev": "economy.html",
@@ -396,6 +414,7 @@
       "file": "winter-animals.html",
       "words": 3636,
       "chars": 19573,
+      "ideas": 98,
       "isChapter": true,
       "order": 14,
       "prev": "former-inhabitants-and-winter-visitors.html",
@@ -414,11 +433,13 @@
   "totals": {
     "all": {
       "words": 106774,
-      "chars": 577506
+      "chars": 577506,
+      "ideas": 3851
     },
     "chapters": {
       "words": 106009,
-      "chars": 572747
+      "chars": 572747,
+      "ideas": 3805
     }
   }
 }
