@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/, se: https://standardebooks.org/vocab/1.0">
+<html lang="en" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/, se: https://standardebooks.org/vocab/1.0">
   <head>
     <meta charset="utf-8">
     <link rel="icon" href="./favicon.png">
@@ -8,7 +8,7 @@
     <meta name="apple-mobile-web-app-capable" content="yes">
 
     <title>{{ .Title }}</title>
-    
+
 		{{ $style := resources.Get "style/style.scss" | toCSS | minify }}
 		{{ $styleHash:= $style | resources.Fingerprint }}
 		<link rel="stylesheet" href="{{ $style.Permalink }}" media="screen" integrity="$styleHash">
