@@ -1,7 +1,7 @@
 /* global self, caches, fetch */
 /* eslint-disable no-restricted-globals */
 
-const CACHE = 'cache-8b64744';
+const CACHE = 'cache-c560442';
 
 self.addEventListener('install', e => {
   e.waitUntil(precache()).then(() => self.skipWaiting());
@@ -39,7 +39,7 @@ self.addEventListener('activate', event => {
 });
 
 function precache() {
-  return caches.open(CACHE).then(cache => cache.addAll(["./","./baker-farm.html","./brute-neighbors.html","./conclusion.html","./economy.html","./favicon.png","./former-inhabitants-and-winter-visitors.html","./higher-laws.html","./house-warming.html","./index.html","./manifest.json","./reading.html","./solitude.html","./sounds.html","./spring.html","./the-bean-field.html","./the-pond-in-winter.html","./the-ponds.html","./the-village.html","./visitors.html","./where-i-lived-and-what-i-lived-for.html","./winter-animals.html","./fonts/PT Free Font License_eng_1.2.txt","./fonts/PTSerif-Bold.woff2","./fonts/PTSerif-BoldItalic.woff2","./fonts/PTSerif-Italic.woff2","./fonts/PTSerif-Regular.woff2","./fonts/leaguespartan-bold.woff2","./images/cover.jpg","./images/logo.svg","./images/paper.png","./scripts/bundle.js","./style/style.min.css"]));
+  return caches.open(CACHE).then(cache => cache.addAll(["./","./baker-farm.html","./brute-neighbors.html","./conclusion.html","./economy.html","./favicon.png","./former-inhabitants-and-winter-visitors.html","./higher-laws.html","./house-warming.html","./index.html","./manifest.json","./reading.html","./solitude.html","./sounds.html","./spring.html","./the-bean-field.html","./the-ponds.html","./the-pond-in-winter.html","./the-village.html","./visitors.html","./where-i-lived-and-what-i-lived-for.html","./winter-animals.html","./fonts/PT Free Font License_eng_1.2.txt","./fonts/PTSerif-Bold.woff2","./fonts/PTSerif-BoldItalic.woff2","./fonts/PTSerif-Italic.woff2","./fonts/PTSerif-Regular.woff2","./fonts/leaguespartan-bold.woff2","./images/cover.jpg","./images/logo.svg","./images/paper.png","./scripts/bundle.js","./style/style.min.css"]));
 }
 
 self.addEventListener('fetch', e => {
