@@ -48,12 +48,15 @@
 }
 
 .hero {
-  height: 90vh;
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
   background-image: url(./../images/cover.jpg);
   background-size: cover;
   box-sizing: border-box;
   padding-top: 30vh;
-  margin-bottom: -11vh;
 
   h1,
   p {
