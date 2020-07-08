@@ -13,19 +13,19 @@
     "Solitude",
     "Social life and customs"
   ],
-  "identifier": "thoreau-walden-1854-be7a93c",
-  "revision": "be7a93c",
+  "identifier": "thoreau-walden-1854-397dffa",
+  "revision": "397dffa",
   "generatedAt": {
-    "date": "Wed Apr 08 2020 11:39:11 GMT+0200 (Central European Summer Time)",
-    "unix": 1586338751210
+    "date": "Wed Jul 08 2020 21:47:25 GMT+0200 (Central European Summer Time)",
+    "unix": 1594237645649
   },
   "documents": [
     {
       "title": "Baker Farm",
       "file": "baker-farm.html",
-      "words": 2553,
-      "chars": 13806,
-      "ideas": 95,
+      "words": 2640,
+      "chars": 13902,
+      "ideas": 128,
       "role": "chapter",
       "order": 9,
       "prev": "the-ponds.html",
@@ -63,9 +63,9 @@
     {
       "title": "Colophon",
       "file": "colophon.html",
-      "words": 762,
-      "chars": 4742,
-      "ideas": 45,
+      "words": 806,
+      "chars": 4921,
+      "ideas": 51,
       "role": "colophon",
       "order": null,
       "next": "economy.html",
@@ -112,9 +112,9 @@
     {
       "title": "Conclusion",
       "file": "conclusion.html",
-      "words": 4626,
-      "chars": 24884,
-      "ideas": 228,
+      "words": 4659,
+      "chars": 24916,
+      "ideas": 242,
       "role": "chapter",
       "order": 17,
       "prev": "spring.html",
@@ -132,9 +132,9 @@
     {
       "title": "Economy",
       "file": "economy.html",
-      "words": 25330,
-      "chars": 136905,
-      "ideas": 909,
+      "words": 25504,
+      "chars": 137131,
+      "ideas": 978,
       "role": "chapter",
       "order": 0,
       "prev": null,
@@ -152,9 +152,9 @@
     {
       "title": "Former Inhabitants and Winter Visitors",
       "file": "former-inhabitants-and-winter-visitors.html",
-      "words": 4677,
-      "chars": 25776,
-      "ideas": 157,
+      "words": 4683,
+      "chars": 25780,
+      "ideas": 160,
       "role": "chapter",
       "order": 13,
       "prev": "house-warming.html",
@@ -172,9 +172,9 @@
     {
       "title": "Higher Laws",
       "file": "higher-laws.html",
-      "words": 4196,
-      "chars": 22740,
-      "ideas": 194,
+      "words": 4231,
+      "chars": 22776,
+      "ideas": 208,
       "role": "chapter",
       "order": 10,
       "prev": "baker-farm.html",
@@ -192,9 +192,9 @@
     {
       "title": "House-Warming",
       "file": "house-warming.html",
-      "words": 5715,
-      "chars": 30579,
-      "ideas": 193,
+      "words": 5807,
+      "chars": 30691,
+      "ideas": 226,
       "role": "chapter",
       "order": 12,
       "prev": "brute-neighbors.html",
@@ -212,21 +212,13 @@
     {
       "title": "Walden",
       "file": "index.html",
-      "words": 4,
-      "chars": 25,
-      "ideas": 2,
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
       "role": "index",
       "order": null,
       "next": "economy.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": "Walden",
-          "id": "chunk1",
-          "children": []
-        }
-      ]
+      "toc": []
     },
     {
       "title": "Reading",
@@ -251,9 +243,9 @@
     {
       "title": "Solitude",
       "file": "solitude.html",
-      "words": 3431,
-      "chars": 18222,
-      "ideas": 128,
+      "words": 3500,
+      "chars": 18497,
+      "ideas": 139,
       "role": "chapter",
       "order": 4,
       "prev": "sounds.html",
@@ -271,9 +263,9 @@
     {
       "title": "Sounds",
       "file": "sounds.html",
-      "words": 5692,
-      "chars": 31393,
-      "ideas": 195,
+      "words": 5737,
+      "chars": 31441,
+      "ideas": 213,
       "role": "chapter",
       "order": 3,
       "prev": "reading.html",
@@ -291,9 +283,9 @@
     {
       "title": "Spring",
       "file": "spring.html",
-      "words": 6628,
-      "chars": 36130,
-      "ideas": 246,
+      "words": 6695,
+      "chars": 36202,
+      "ideas": 272,
       "role": "chapter",
       "order": 16,
       "prev": "the-pond-in-winter.html",
@@ -311,9 +303,9 @@
     {
       "title": "The Bean-Field",
       "file": "the-bean-field.html",
-      "words": 3786,
-      "chars": 20607,
-      "ideas": 126,
+      "words": 3795,
+      "chars": 20615,
+      "ideas": 130,
       "role": "chapter",
       "order": 6,
       "prev": "visitors.html",
@@ -331,9 +323,9 @@
     {
       "title": "The Pond in Winter",
       "file": "the-pond-in-winter.html",
-      "words": 5196,
-      "chars": 28042,
-      "ideas": 157,
+      "words": 5208,
+      "chars": 28054,
+      "ideas": 162,
       "role": "chapter",
       "order": 15,
       "prev": "winter-animals.html",
@@ -351,9 +343,9 @@
     {
       "title": "The Ponds",
       "file": "the-ponds.html",
-      "words": 9152,
-      "chars": 49124,
-      "ideas": 290,
+      "words": 9185,
+      "chars": 49164,
+      "ideas": 302,
       "role": "chapter",
       "order": 8,
       "prev": "the-village.html",
@@ -371,9 +363,9 @@
     {
       "title": "The Village",
       "file": "the-village.html",
-      "words": 2016,
-      "chars": 10784,
-      "ideas": 58,
+      "words": 2033,
+      "chars": 10801,
+      "ideas": 65,
       "role": "chapter",
       "order": 7,
       "prev": "the-bean-field.html",
@@ -391,9 +383,9 @@
     {
       "title": "Visitors",
       "file": "visitors.html",
-      "words": 4738,
-      "chars": 25521,
-      "ideas": 190,
+      "words": 4792,
+      "chars": 25573,
+      "ideas": 213,
       "role": "chapter",
       "order": 5,
       "prev": "solitude.html",
@@ -411,9 +403,9 @@
     {
       "title": "Where I Lived, and What I Lived For",
       "file": "where-i-lived-and-what-i-lived-for.html",
-      "words": 6081,
-      "chars": 32332,
-      "ideas": 225,
+      "words": 6105,
+      "chars": 32356,
+      "ideas": 235,
       "role": "chapter",
       "order": 1,
       "prev": "economy.html",
@@ -451,14 +443,14 @@
   ],
   "totals": {
     "all": {
-      "words": 106775,
-      "chars": 577514,
-      "ideas": 3852
+      "words": 107572,
+      "chars": 578722,
+      "ideas": 4138
     },
     "chapters": {
-      "words": 106009,
-      "chars": 572747,
-      "ideas": 3805
+      "words": 106766,
+      "chars": 573801,
+      "ideas": 4087
     }
   }
 }
