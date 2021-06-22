@@ -13,11 +13,11 @@
     "Solitude",
     "Social life and customs"
   ],
-  "identifier": "thoreau-walden-1854-397dffa",
-  "revision": "397dffa",
+  "identifier": "thoreau-walden-1854-e1c7a91",
+  "revision": "e1c7a91",
   "generatedAt": {
-    "date": "Wed Jul 08 2020 21:47:25 GMT+0200 (Central European Summer Time)",
-    "unix": 1594237645649
+    "date": "Tue Jun 22 2021 22:58:23 GMT+0200 (Central European Summer Time)",
+    "unix": 1624395503666
   },
   "documents": [
     {
@@ -132,9 +132,9 @@
     {
       "title": "Economy",
       "file": "economy.html",
-      "words": 25504,
-      "chars": 137131,
-      "ideas": 978,
+      "words": 25496,
+      "chars": 137091,
+      "ideas": 977,
       "role": "chapter",
       "order": 0,
       "prev": null,
@@ -243,9 +243,9 @@
     {
       "title": "Solitude",
       "file": "solitude.html",
-      "words": 3500,
-      "chars": 18497,
-      "ideas": 139,
+      "words": 3450,
+      "chars": 18237,
+      "ideas": 137,
       "role": "chapter",
       "order": 4,
       "prev": "sounds.html",
@@ -443,14 +443,14 @@
   ],
   "totals": {
     "all": {
-      "words": 107572,
-      "chars": 578722,
-      "ideas": 4138
+      "words": 107514,
+      "chars": 578422,
+      "ideas": 4135
     },
     "chapters": {
-      "words": 106766,
-      "chars": 573801,
-      "ideas": 4087
+      "words": 106708,
+      "chars": 573501,
+      "ideas": 4084
     }
   }
 }

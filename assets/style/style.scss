@@ -1,8 +1,6 @@
-@import "./../../node_modules/nb-base/src/scss/style.scss";
-
-:root {
-  --background: #fafafa;
-}
+// replaced due to dart-sass/dart-sass-embedded conflict as of July 22 2021
+//@import "./../../node_modules/@next-book/interface/src/scss/style.scss";
+@import "./../../node_modules/@next-book/interface/dist/interface";
 
 @font-face {
   font-family: "League";
@@ -41,10 +39,6 @@
 
 :root {
   --content-font: "PT Serif";
-
-  --main: #255537;
-  --dark: rgba(0, 0, 0, 0.8);
-  color: var(--dark);
 }
 
 .hero {
